@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="quickstart">
+    <serverData>
+      <paths name="quickstart">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="tparser" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
